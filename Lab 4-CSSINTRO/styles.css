@@ -1,0 +1,83 @@
+body
+{
+    margin-top: 0em;
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-bottom: 0em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.9rem;
+    background-color: #f9f9f9;
+}
+
+h1
+{
+    font-family: 'Roboto Slab';
+    font-size: 2rem;
+    text-align: center;
+    color: #9f2042;
+    height: 1.5rem;
+}
+
+p
+{
+    margin-top: 1em;
+    margin-bottom: 2em;
+    font-size: 1rem;
+}
+
+blockquote
+{
+    font-family: 'Roboto Slab';
+    font-size: 1.25rem;
+    border: solid 2pt #ececec;
+    padding: .75rem;
+}
+
+#details
+{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    text-align: center;
+    color: #a9a9ba;
+}
+
+.hero
+{
+    width: 100%;
+}
+
+#buttons a
+{
+    
+
+    color:#9f2042;
+    text-decoration: none;
+    border: solid 2pt #a9a9ba;
+    border-radius: .25rem;
+    padding: .50rem;
+
+}
+
+#buttons a:hover
+{
+    background-color: #a9a9ba;
+    color: #9f2042;
+}
+
+footer
+{
+    color: #ececec;
+    margin-top: 2em;
+    margin-left: 0em;
+    margin-right: 0em;
+    margin-bottom: 0em;
+    background-color: #29293a;
+    margin-top: 2em;
+    padding: 1.75em;
+}
+
+footer a
+{
+    color: #9f2042;
+    text-decoration: none;
+}
