@@ -1,0 +1,129 @@
+
+* {
+   box-sizing: border-box;
+}
+body, section, header, div, p, h1, h2, h3, ul, li, figure, figcaption {
+   margin: 0;
+   padding: 0;
+}
+body {
+   font-family: 'Open Sans', sans-serif;
+   box-sizing: border-box;
+   background-color: #F0F4F8;
+   font-weight: 300;
+}
+
+header 
+{
+   background-image: url(images/florence.jpg);
+   background-size: cover;
+   width: 100%;
+   min-height: 500px;
+}
+
+header div
+{
+   color: #fff;
+   margin: 100px 100px 100px 100px;
+}
+
+div h2
+{
+   font-size: 48px;
+}
+
+div p
+{
+   font-size: 24px;
+   margin: 20px 0px 20px 0px;
+}
+
+div a
+{
+   text-decoration: none;
+   color: #fff;
+   background-color: #51279B;
+   padding: 10px 15px;
+   border-radius: 5px;
+}
+
+#topbar
+{
+   background-image: url(images/logo.png);
+   list-style-type: none;
+   background-repeat: no-repeat;
+   background-size: 60px;
+   padding: 20px 0px 20px 80px;
+   height: 60px;
+   font-weight: bold;
+}
+
+li
+{
+   display: inline-block;
+   padding: 20px 20px;
+   color: #51279B;
+}
+
+li a
+{
+   text-decoration: none;
+   color: #51279B;
+}
+
+li a:hover
+{
+   color: #8c00ff;
+}
+
+li a:visited
+{
+   color: #8662C7;
+}
+
+.card
+{
+   box-sizing: border-box;
+   display: inline-block;
+   background-color: #ffffff98;
+   padding: .1rem;
+   margin-top: .75rem;
+   margin-left: 1rem;
+}
+
+.heart
+{
+   background-image: url(images/heart.png);
+   background-repeat: no-repeat;
+   background-size: 15px;
+   margin: 0px 0px 0px 10px;
+   padding: 0px 0px 0px 20px;
+   font-size: 10px;
+}
+
+h3
+{
+   font-size: 14px;
+   padding: 5px;
+}
+
+.description
+{
+   font-size: 12px;
+   margin: 5px 0px 5px 0px;
+   padding: 5px;
+}
+
+.comment
+{
+   background-image: url(images/comment.png);
+   background-repeat: no-repeat;
+   background-size: 15px;
+   background-position: 0px 0px;
+   font-size: 10px;
+   margin: 0px 0px 0px 10px;
+   padding: 0px 0px 0px 20px;
+
+}
+
+
